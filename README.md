@@ -43,10 +43,7 @@ The objective of this project is to create an **interactive Power BI dashboard**
 ---
 
 ### Dashboard Screenshot
-![Mobile Sales Dashboard](Mobile%20Sales%20Dashboard.png)
-
-### Sample Raw Data
-![Excel Data Preview](Mobile%20Sales%20Data.xlsx)
+![Mobile Sales Dashboard](Mobile%20sales%20Dashboard.png)
 
 ---
 
