@@ -1,13 +1,13 @@
-# 📱 Mobile Sales Analysis Dashboard – Power BI
+# Mobile Sales Analysis Dashboard – Power BI
 
 This repository contains the **Mobile Sales Dashboard** built using **Power BI**, designed to analyze brand performance, customer demographics, sales patterns, and payment behavior across India.
 
-## 🔗 Live Dashboard
-👉 [Click here to view the live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiODIwNjExMGItZTBjMi00MGIxLTlkMTMtMDE1YjYwZjQ4NmQ3IiwidCI6IjYwYzgxNGU0LTQ2MTQtNDRjYi05NTczLWE1YzNmYTU4MTcwMiJ9)
+## Live Dashboard
+ [Click here to view the live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiODIwNjExMGItZTBjMi00MGIxLTlkMTMtMDE1YjYwZjQ4NmQ3IiwidCI6IjYwYzgxNGU0LTQ2MTQtNDRjYi05NTczLWE1YzNmYTU4MTcwMiJ9)
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 Mobile sales data from multiple brands and cities is stored in Excel, making it difficult to extract insights. Business teams struggle to:
 
@@ -22,7 +22,7 @@ The objective of this project is to create an **interactive Power BI dashboard**
 
 ---
 
-## 📊 Dashboard Insights
+## Dashboard Insights
 
 ### ✔ Key Metrics
 - **Total Sales**: 769M  
@@ -30,7 +30,7 @@ The objective of this project is to create an **interactive Power BI dashboard**
 - **Total Transactions**: 4K  
 - **Average Sales**: 40K  
 
-### ✔ Visualizations Included
+###  Visualizations Included
 - Map view of **sales by Indian cities**
 - Line chart: **Quantity sold by month**
 - Bar chart: **Customer ratings**
@@ -42,17 +42,15 @@ The objective of this project is to create an **interactive Power BI dashboard**
 
 ---
 
-## 🖼 Dashboard Preview
-
 ### Dashboard Screenshot
-![Mobile Sales Dashboard](images/dashboard.png)
+![Mobile Sales Dashboard](Mobile%20Sales%20Dashboard.png)
 
 ### Sample Raw Data
-![Excel Data Preview](images/excel_data.png)
+![Excel Data Preview](Mobile%20Sales%20Data.xlsx)
 
 ---
 
-## 🚀 How to Use This Project
+## How to Use This Project
 
 1. Clone or download this repository  
 2. Install **Power BI Desktop**  
@@ -62,7 +60,7 @@ The objective of this project is to create an **interactive Power BI dashboard**
 
 ---
 
-## 💡 Insights & Conclusion
+## Insights & Conclusion
 
 This dashboard helps identify:
 
@@ -81,7 +79,7 @@ It enables business leaders to make decisions related to:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Power BI Desktop**
 - **Excel**
@@ -91,7 +89,7 @@ It enables business leaders to make decisions related to:
 
 ---
 
-## 📬 Contact / Author
+## Contact / Author
 
 **Vaishnavi Sapkal**  
 Mobile Sales BI Dashboard Project – 2025  
