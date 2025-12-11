@@ -52,7 +52,7 @@ The objective of this project is to create an **interactive Power BI dashboard**
 1. Clone or download this repository  
 2. Install **Power BI Desktop**  
 3. Open the file: PowerBI_Dashboard.pbix
-4. 4. Import or update your Excel file (optional)  
+4. Import or update your Excel file (optional)  
 5. Explore the dashboard using filters and slicers  
 
 ---
@@ -81,7 +81,6 @@ It enables business leaders to make decisions related to:
 - **Power BI Desktop**
 - **Excel**
 - **DAX Measures**
-- **Data Modeling**
 - **Power Query**
 
 ---
