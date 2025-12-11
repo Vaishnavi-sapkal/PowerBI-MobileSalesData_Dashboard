@@ -90,4 +90,3 @@ It enables business leaders to make decisions related to:
 
 **Vaishnavi Sapkal**  
 Mobile Sales BI Dashboard Project – 2025  
-If you want a customized dashboard or improvements, feel free to connect!
